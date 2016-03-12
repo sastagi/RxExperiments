@@ -1,3 +1,3 @@
 #RXJava, Retrofit and SQLite
 
-A serries of small experiments
+A series of small experiments
