@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/astagis/.gradle/caches/modules-2/files-2.1/io.reactivex/rxandroid/0.23.0/9c437ce12df38b57fde4e3bb38ef6859f85ff737/rxandroid-0.23.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9c437ce12df38b57fde4e3bb38ef6859f85ff737">
+        <dex dex="/Users/astagis/AndroidStudioProjects/RxExperiments/app/build/intermediates/pre-dexed/debug/rxandroid-0.23.0-689c2f880e0c20e2b760941ecf18ea9d8c6833a2.jar" />
+    </item>
+    <item
+        jar="/Users/astagis/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/astagis/AndroidStudioProjects/RxExperiments/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-f771214f34c586507a4d93e611eb7be228d4b519.jar" />
+    </item>
+    <item
+        jar="/Users/astagis/AndroidStudioProjects/RxExperiments/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/astagis/AndroidStudioProjects/RxExperiments/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-779687f900b2023bd70b472aa04c64189f406f40.jar" />
+    </item>
+    <item
+        jar="/Users/astagis/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.0.17/1a653d18a3e41fae66a473d172649a0625cff107/rxjava-1.0.17.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a653d18a3e41fae66a473d172649a0625cff107">
+        <dex dex="/Users/astagis/AndroidStudioProjects/RxExperiments/app/build/intermediates/pre-dexed/debug/rxjava-1.0.17-39a19d8a974c7f3fd2c8b61c58719eeb258a24e2.jar" />
+    </item>
+    <item
+        jar="/Users/astagis/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/Users/astagis/AndroidStudioProjects/RxExperiments/app/build/intermediates/pre-dexed/debug/retrofit-1.9.0-9ccff91409fee680296422614e81fbe8d29f6afa.jar" />
+    </item>
+    <item
+        jar="/Users/astagis/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/astagis/AndroidStudioProjects/RxExperiments/app/build/intermediates/pre-dexed/debug/gson-2.3.1-01179df89afccb16c5380f09754cde6a399f2873.jar" />
+    </item>
+    <item
+        jar="/Users/astagis/AndroidStudioProjects/RxExperiments/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/astagis/AndroidStudioProjects/RxExperiments/app/build/intermediates/pre-dexed/debug/classes-09decc7c673204cc7069f84e364ec977fb39c9b7.jar" />
+    </item>
+    <item
+        jar="/Users/astagis/AndroidStudioProjects/RxExperiments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/astagis/AndroidStudioProjects/RxExperiments/app/build/intermediates/pre-dexed/debug/classes-3ae653e909beec5768e6c205ab08be7349f2edaf.jar" />
+    </item>
+
+</items>
